@@ -9,6 +9,7 @@ class ShopApplicationTests {
 	@Test
 	void contextLoads() {
 		int mmmmm = 0;
+		int aaaa = 0;
 	}
 
 }
